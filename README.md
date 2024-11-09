@@ -1,5 +1,5 @@
 # Amazon-Sales-Analysis
-
+![logo](https://github.com/rachit7217/Amazon-Sales-Analysis/blob/main/Dashboard%2012%20Amazon%20Sales.png)
 **Project Summary: Amazon Global Sales Analysis Dashboard**
 
 This project aims to create an interactive dashboard using Power BI to analyze global sales data from Amazon. By integrating data from Excel and SQL, we will visualize key performance indicators (KPIs) to derive actionable insights. 
